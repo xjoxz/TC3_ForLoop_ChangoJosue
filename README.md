@@ -1,7 +1,7 @@
 # TC3_ForLoop_ChangoJosue
 ## Datos Personales
 - Nombre: Josué Leonardo Chango Gómez
-- Edad: 22 años
+- Edad: 23 años
 - Ciudad de origen: Tena
 - Profesión: Estudiante 
 - Idiomas: Español, Inglés
